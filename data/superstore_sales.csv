@@ -1,0 +1,25 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,Region,Category,Sub-Category,Sales,Profit,Quantity,Discount
+CA-2018-1001,2018-01-05,2018-01-08,Second Class,CU-1001,Consumer,East,Technology,Phones,1200,300,2,0.1
+CA-2018-1002,2018-01-07,2018-01-10,Standard Class,CU-1002,Corporate,West,Furniture,Chairs,450,50,3,0.0
+CA-2018-1003,2018-02-10,2018-02-12,First Class,CU-1003,Home Office,Central,Office Supplies,Paper,80,20,5,0.0
+CA-2018-1004,2018-02-15,2018-02-18,Second Class,CU-1004,Consumer,South,Technology,Accessories,230,60,2,0.1
+CA-2018-1005,2018-03-01,2018-03-04,Standard Class,CU-1005,Corporate,East,Furniture,Tables,600,-40,1,0.2
+CA-2018-1006,2018-03-18,2018-03-22,Standard Class,CU-1006,Consumer,West,Office Supplies,Binders,150,30,4,0.0
+CA-2018-1007,2018-04-02,2018-04-06,First Class,CU-1007,Home Office,Central,Technology,Laptops,2200,500,1,0.0
+CA-2018-1008,2018-04-20,2018-04-25,Second Class,CU-1008,Consumer,South,Furniture,Bookcases,900,120,2,0.1
+CA-2018-1009,2018-05-05,2018-05-09,Standard Class,CU-1009,Corporate,East,Office Supplies,Storage,200,40,3,0.0
+CA-2018-1010,2018-05-21,2018-05-26,Standard Class,CU-1010,Consumer,West,Technology,Phones,1400,350,2,0.1
+CA-2018-1011,2018-06-10,2018-06-14,Second Class,CU-1011,Home Office,Central,Furniture,Chairs,500,70,4,0.0
+CA-2018-1012,2018-06-25,2018-06-29,Standard Class,CU-1012,Consumer,South,Office Supplies,Paper,90,15,6,0.0
+CA-2018-1013,2018-07-08,2018-07-12,First Class,CU-1013,Corporate,East,Technology,Laptops,2500,600,1,0.0
+CA-2018-1014,2018-07-19,2018-07-23,Second Class,CU-1014,Consumer,West,Furniture,Tables,700,-60,2,0.2
+CA-2018-1015,2018-08-02,2018-08-06,Standard Class,CU-1015,Home Office,Central,Office Supplies,Binders,160,35,5,0.0
+CA-2018-1016,2018-08-18,2018-08-22,Standard Class,CU-1016,Consumer,South,Technology,Accessories,300,75,3,0.1
+CA-2018-1017,2018-09-05,2018-09-09,Second Class,CU-1017,Corporate,East,Furniture,Bookcases,950,150,2,0.0
+CA-2018-1018,2018-09-22,2018-09-27,Standard Class,CU-1018,Consumer,West,Office Supplies,Storage,210,45,3,0.0
+CA-2018-1019,2018-10-10,2018-10-14,First Class,CU-1019,Home Office,Central,Technology,Phones,1300,320,2,0.1
+CA-2018-1020,2018-10-28,2018-11-01,Second Class,CU-1020,Consumer,South,Furniture,Chairs,480,60,3,0.0
+CA-2018-1021,2018-11-12,2018-11-16,Standard Class,CU-1021,Corporate,East,Office Supplies,Paper,100,25,6,0.0
+CA-2018-1022,2018-11-24,2018-11-29,First Class,CU-1022,Consumer,West,Technology,Laptops,2700,650,1,0.0
+CA-2018-1023,2018-12-05,2018-12-10,Second Class,CU-1023,Home Office,Central,Furniture,Tables,820,-80,2,0.2
+CA-2018-1024,2018-12-20,2018-12-26,Standard Class,CU-1024,Consumer,South,Office Supplies,Binders,190,40,4,0.0
